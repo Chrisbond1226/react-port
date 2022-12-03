@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-port/static/css/main.b6b22d53.chunk.css",
+    "main.js": "/react-port/static/js/main.8d128d52.chunk.js",
+    "main.js.map": "/react-port/static/js/main.8d128d52.chunk.js.map",
+    "runtime-main.js": "/react-port/static/js/runtime-main.f0d4f5bb.js",
+    "runtime-main.js.map": "/react-port/static/js/runtime-main.f0d4f5bb.js.map",
+    "static/js/2.296f96f7.chunk.js": "/react-port/static/js/2.296f96f7.chunk.js",
+    "static/js/2.296f96f7.chunk.js.map": "/react-port/static/js/2.296f96f7.chunk.js.map",
+    "static/js/3.ebb52926.chunk.js": "/react-port/static/js/3.ebb52926.chunk.js",
+    "static/js/3.ebb52926.chunk.js.map": "/react-port/static/js/3.ebb52926.chunk.js.map",
+    "index.html": "/react-port/index.html",
+    "static/css/main.b6b22d53.chunk.css.map": "/react-port/static/css/main.b6b22d53.chunk.css.map",
+    "static/js/2.296f96f7.chunk.js.LICENSE.txt": "/react-port/static/js/2.296f96f7.chunk.js.LICENSE.txt",
+    "static/media/Screen Shot 2022-08-21 at 9.27.15 AM.11be9c3c.png": "/react-port/static/media/Screen Shot 2022-08-21 at 9.27.15 AM.11be9c3c.png",
+    "static/media/Screen Shot 2022-10-14 at 7.15.54 PM.e3242cb1.png": "/react-port/static/media/Screen Shot 2022-10-14 at 7.15.54 PM.e3242cb1.png",
+    "static/media/hero-bg.000e1b5f.jpeg": "/react-port/static/media/hero-bg.000e1b5f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0d4f5bb.js",
+    "static/js/2.296f96f7.chunk.js",
+    "static/css/main.b6b22d53.chunk.css",
+    "static/js/main.8d128d52.chunk.js"
+  ]
+}
